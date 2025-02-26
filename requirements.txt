@@ -1,0 +1,8 @@
+sounddevice
+librosa
+pyaudio
+wave
+numpy
+scikit-learn
+tensorflow
+matplotlib
